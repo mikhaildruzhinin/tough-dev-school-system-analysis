@@ -45,24 +45,24 @@
 
 ### Заказы
 
-![bpmn_tasks](hw0/bpmn/bpmn_tasks.drawio.png)
+![bpmn_tasks](bpmn/bpmn_tasks.drawio.png)
 
 ### Качество заказов
 
-![bpmn_quality](hw0/bpmn/bpmn_quality.drawio.png)
+![bpmn_quality](bpmn/bpmn_quality.drawio.png)
 
 ### Платежи
 
-![bpmn_payment](hw0/bpmn/bpmn_payment.drawio.png)
+![bpmn_payment](bpmn/bpmn_payment.drawio.png)
 
 ### Приём на работу
 
-![bpmn_job_applications](hw0/bpmn/bpmn_job_applications.drawio.png)
+![bpmn_job_applications](bpmn/bpmn_job_applications.drawio.png)
 
 ### Расходники
 
-![bpmn_consumables](hw0/bpmn/bpmn_consumables.drawio.png)
+![bpmn_consumables](bpmn/bpmn_consumables.drawio.png)
 
 ### Ставки
 
-![bpmn_betting](hw0/bpmn/bpmn_betting.drawio.png)
+![bpmn_betting](bpmn/bpmn_betting.drawio.png)
