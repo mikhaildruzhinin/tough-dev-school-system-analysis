@@ -2,9 +2,9 @@
 
 ## Event Storming модель
 
-<iframe width="768" height="432" src="https://miro.com/app/embed/uXjVLr3CjCk=/?pres=1&frameId=3458764613927122041&embedId=722289927968" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<img src="event_storming_preview.png" alt="image" width="768" height="432"/>
 
-Если вдруг встроенная доска miro не работает, модель также доступна по [ссылке](https://miro.com/app/board/uXjVLr3CjCk=/?share_link_id=346059167375).
+Модель доступна по [ссылке](https://miro.com/app/board/uXjVLr3CjCk=/?share_link_id=346059167375).
 
 При группровке команд и событий по контекстам я старался объединять в рамках одного контекста один (или несколько похожих) бизнес процессов.
 Например, все команды и события, которые были связаны с обработкой заказов, были выделены в один контекст. При таком разделении между контекстами очень мало или совсем нет. 
